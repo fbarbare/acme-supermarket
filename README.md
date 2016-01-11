@@ -29,7 +29,7 @@ Implement a basket system that fulfills these requirements in JavaScript.
 Test Data:
 
     Basket: FR1, SR1, FR1, CF1
-    Total price expected: £22.25
+    Total price expected: £19.34
 
     Basket: FR1, FR1
     Total price expected: £3.11
