@@ -36,3 +36,8 @@ Test Data:
 
     Basket: SR1, SR1, FR1, SR1
     Total price expected: £16.61
+
+## TEST FOR ARCADIA
+
+Start running the tests with `npm test`
+To only run the tests, run `CI=true npm test`
